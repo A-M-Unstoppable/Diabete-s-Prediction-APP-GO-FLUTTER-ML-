@@ -22,15 +22,15 @@ git clone https://github.com/your-username/diabetes-prediction-app.git
 
 
 Backend Setup
->install Go on your machine
->  Go to the go folder in users
->move the Go folder from the Project to Go folder in users/Go
->Run go get -d ./... to install dependencie's
->start the backend server go run main.go
+install Go on your machine
+Go to the go folder in users
+move the Go folder from the Project to Go folder in users/Go
+Run go get -d ./... to install dependencie's
+start the backend server go run main.go
 
 Frontend Setup
->flutter pub get
->flutter run
+flutter pub get
+flutter run
 
 
 Contribution
