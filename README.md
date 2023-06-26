@@ -23,8 +23,9 @@ git clone https://github.com/your-username/diabetes-prediction-app.git
 
 Backend Setup
 
+'''bash
 install Go on your machine
-
+'''
 Go to the go folder in users
 
 move the Go folder from the Project to Go folder in users/Go
